@@ -1,2 +1,2 @@
-0utlook.org
-sharepoint.0utlook.org
+0utlook.org/
+sharepoint.0utlook.org/
