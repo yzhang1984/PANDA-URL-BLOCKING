@@ -1,67 +1,64 @@
-2026-10-02
-  sharepoint.0utlook365.org
-  sharepoint.cloud.microsoft.0utlook365.org
-  0utlook365.org
+#####2026-10-02#####
+sharepoint.0utlook365.org
+sharepoint.cloud.microsoft.0utlook365.org
+0utlook365.org
 
-2026-10-01
-  0utlook.org
-  sharepoint.0utlook.org
+#####2026-10-01#####
+0utlook.org
+sharepoint.0utlook.org
   
-2026-09-30
-  d3k7nkg9bamdzm.cloudfront.net
-  d1ecb0suuhopzr.cloudfront.net
-  d23l50n6ubud7p.cloudfront.net
-  d1jp293q9tvi92.cloudfront.net
-  d2g6dl71gua1qa.cloudfront.net
-  d3nh8sl98s2554.cloudfront.net
-  d2im6qbmbhag5x.cloudfront.net
+#####2026-09-30#####
+d3k7nkg9bamdzm.cloudfront.net
+d1ecb0suuhopzr.cloudfront.net
+d23l50n6ubud7p.cloudfront.net
+d1jp293q9tvi92.cloudfront.net
+d2g6dl71gua1qa.cloudfront.net
+d3nh8sl98s2554.cloudfront.net
+d2im6qbmbhag5x.cloudfront.net
   
-2026-09-27
-  echvista.com
+#####2026-09-27#####
+echvista.com
   
-2026-09-22
-  effectivecpmnetwork.com
-  enviar12.ink
-  urban-vpn.com
-  themcdonaldsmenu.com
-  ktopkoreanbbq.com
-  fulcrumsec.io
-  data-removal.com
-  fulcrumsec.vg
-  fulcrumsecurity.io
-  fulcrumsec.org
-  fulcrumsec.dev
-  fulcrumsec.cc
-  fulcrumsecurity.net
+#####2026-09-22#####
+effectivecpmnetwork.com
+enviar12.ink
+urban-vpn.com
+themcdonaldsmenu.com
+ktopkoreanbbq.com
+fulcrumsec.io
+data-removal.com
+fulcrumsec.vg
+fulcrumsecurity.io
+fulcrumsec.org
+fulcrumsec.dev
+fulcrumsec.cc
+fulcrumsecurity.net
   
-2026-09-17
-  effectivecpmnetwork.com
-  enviar12.ink
-  urban-vpn.com
+#####2026-09-17#####
+effectivecpmnetwork.com
+enviar12.ink
+urban-vpn.com
 
-2026-09-14
-  add-passkey.com
-  deploypasskeys.com
-  itkeysetup.com
-  itkeyenroll.com
-  oskeysetup.com
-  myconnectkey.com
-  keysyncos.com
-  oktasession.com
-  usrpubtrk.com
-  rutify.tech
-  tarjetaroja.my
-  www.highperformanceformat.com
-  getdoctornow.com
-  shinywire.com
+#####2026-09-14#####
+add-passkey.com
+deploypasskeys.com
+itkeysetup.com
+itkeyenroll.com
+oskeysetup.com
+myconnectkey.com
+keysyncos.com
+oktasession.com
+usrpubtrk.com
+rutify.tech
+tarjetaroja.my
+www.highperformanceformat.com
+getdoctornow.com
+shinywire.com
 
-2026-09-09
-  usrpubtrk.com
-  rutify.tech
-  tarjetaroja.my
-  www.highperformanceformat.com
-  getdoctornow.com
-  shinywire.com
-
-
-
+#####2026-09-09#####
+usrpubtrk.com
+rutify.tech
+tarjetaroja.my
+www.highperformanceformat.com
+getdoctornow.com
+shinywire.com
