@@ -1,2 +1,4 @@
-0utlook.org/
-sharepoint.0utlook.org/
+https://0utlook.org/
+https://sharepoint.0utlook.org/
+http://0utlook.org/
+http://sharepoint.0utlook.org/
