@@ -1,4 +1,4 @@
 104.248.244.66
 104.248.244.67
-0utlook.org/
-sharepoint.0utlook.org/
+https://0utlook.org/
+https://sharepoint.0utlook.org/
