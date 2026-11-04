@@ -62,3 +62,5 @@ tarjetaroja.my
 www.highperformanceformat.com
 getdoctornow.com
 shinywire.com
+wowroms.com
+*.wowroms.com
